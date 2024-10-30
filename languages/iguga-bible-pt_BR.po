@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bíblia iGuga\n"
+"POT-Creation-Date: 2019-05-13 23:09+0100\n"
+"PO-Revision-Date: 2019-05-13 23:09+0100\n"
+"Last-Translator: Ivan Mota <ivandorosario@gmail.com>\n"
+"Language-Team: Ivan Mota <ivandorosario@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: iguga-bible.php:27 inc/settings.php:49 inc/settings.php:50
+#: templates/settings.php:25
+msgid "iGuga Bible"
+msgstr "Bíblia iGuga"
+
+#: iguga-bible.php:28
+msgid ""
+"Easy way to add Almeida Corrected and Faithful (ACF) by Trinitarian Bible "
+"Society of Brazil to your site"
+msgstr ""
+"Uma forma fácil de adicionar a Bíblia Almeida Corrigida Fiel (ACF) da "
+"Sociedade Bíblica Trinitariana do Brasil no seu site"
+
+#: inc/front.php:64
+msgid "iGuga Online Bible"
+msgstr "Bíblia Online iGuga"
+
+#: inc/front.php:117
+msgid "iGuga Bible Dictionary"
+msgstr "Dicionário Bíblico iGuga"
+
+#: inc/settings.php:97
+msgid "The Bible and Dictionary Custom Settings"
+msgstr "Opções de personalização da Bíblia e do Dicionário"
+
+#: inc/settings.php:110
+msgid "Bible Custom Code"
+msgstr "Código de Personalização da Bíblia"
+
+#: inc/settings.php:117
+msgid ""
+"The code generated on the iguga.org website (login required) to customize "
+"your bible. Ex: 1612dca508867f6102edca7d9175281a"
+msgstr ""
+"O código gerado no site iguga.org (é necessário iniciar a sessão) para "
+"personalizar a sua bíblia. Exemplo: 1612dca508867f6102edca7d9175281a"
+
+#: inc/settings.php:124
+msgid "Dictionary Custom Code"
+msgstr "Código de personalização do Dicionário"
+
+#: inc/settings.php:131
+msgid ""
+"The code generated on the iguga.org website (login required) to customize "
+"your dictionary. Ex: 1612dca508867f6102edca7d9175281a"
+msgstr ""
+"O código gerado no site iguga.org (é necessário iniciar a sessão) para "
+"personalizar o seu dicionário. Exemplo: 1612dca508867f6102edca7d9175281a"
+
+#: inc/settings.php:166
+msgid ""
+"The Bible Custom Code is not valid. Should be a alpanumeric code with 32 "
+"characters."
+msgstr ""
+"O Código de Personalização da Bíblia não é válido. O código deverá ser "
+"alfanumérico com 32 caracteres."
+
+#: inc/settings.php:175
+msgid ""
+"The Dictionay Custom Code is not valid. Should be a alpanumeric code with 32 "
+"characters."
+msgstr ""
+"O Código de Personalização do Dicionário não é válido. O código deverá ser "
+"alfanumérico com 32 caracteres."
+
+#: inc/settings.php:179
+msgid "iGuga Bible settings successfully updated."
+msgstr "As opções da  Bíblia iGuga foram atualizadas com sucesso."
+
+#: inc/settings.php:194
+msgid "Bible and the Dictionary customization"
+msgstr "Personalização da Bíblia e do Dicionário"
+
+#: inc/settings.php:201
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Você não possui permissões suficientes para aceder a esta página."
+
+#: inc/settings.php:231
+msgid "Support"
+msgstr "Suporte"
+
+#: inc/settings.php:235 templates/settings.php:39
+msgid "Donate"
+msgstr "Donativo"
+
+#: templates/settings.php:26
+msgid "Plugin version:"
+msgstr "Versão do Plugin:"
+
+#: templates/settings.php:41
+msgid "FAQ"
+msgstr "FAQ"
+
+#: templates/settings.php:43
+msgid "Community Support"
+msgstr "Suporte da Comunidade"
+
+#: templates/settings.php:45
+msgid "Review this plugin"
+msgstr "Classifique este plugin"
